@@ -3,7 +3,7 @@ import {Loader, Card, FormField} from '../components';
 
 const RenderCards = ({data, title})=>{
 
-
+// if(data && data.length>)//
     // if(data && data.length>) ///
     if(data?.length>0){
         return(
